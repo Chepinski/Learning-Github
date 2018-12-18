@@ -1,1 +1,1 @@
-function(){console.log(new script, bro)}
+function(){console.log("new script, bro");}
